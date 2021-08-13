@@ -39,7 +39,7 @@
     "launchdarkly-node-server-sdk": "^5.13.1",
     "ldclient-node": "^5.8.0",
     "multer": "^1.4.2",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "nextjs-fonts": "^0.22.0",
     "node-cache": "^4.2.1",
     "node-fetch": "^2.6.0",
